@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068185930825",
+    "firebase_url": "https://summer-project-dee23.firebaseio.com",
+    "project_id": "summer-project-dee23",
+    "storage_bucket": "summer-project-dee23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068185930825:android:c3b84a5052c50bb1",
+        "android_client_info": {
+          "package_name": "com.phasebeyond.restaurantfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068185930825-3mm6gmmp3q2dnrnkrq37bjnf58pqco4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzGcsNZv7lit42wATje-PxR-4vHOdCADs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068185930825-3mm6gmmp3q2dnrnkrq37bjnf58pqco4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

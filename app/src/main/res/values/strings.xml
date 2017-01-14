@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Restaurant Finder</string>
+    <string-array name="locality_array">
+        <item>Sector 45, Gurgaon</item>
+        <item>Sector 50, Gurgaon</item>
+        <item>Sector 56, Gurgaon</item>
+        <item>Sohna Road</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_direction_map">Map</string>
+    <string name="cafe">Cafe</string>
+</resources>
